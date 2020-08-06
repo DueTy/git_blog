@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/DueTy/git_blog
-  branch: master
+  branch: gh-pages
