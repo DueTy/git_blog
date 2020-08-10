@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DueTy's Blog
+title: DueTy's
 subtitle: ''
 description: '您这也叫压弯？'
 keywords:
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: overdoes
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
