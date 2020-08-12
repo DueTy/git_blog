@@ -49,8 +49,6 @@ article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
             i(class=`fa fa-${label}`)
     meta(itemprop="name" content=config.author)
 
-  include sharer
-
   if theme.liveRe && theme.liveRe.uid
     #lv-container(data-id="city", data-uid=theme.liveRe.uid)
     script.
